@@ -49,6 +49,7 @@ Users should be able to:
     - using raw CSS
     - using block, inline-block, and flex display elements
     - understanding of relative positions 
+    - Introductory understanding of responsive design for mobile devices 
 
 - How to add Google Fonts to my project
 - General understanding of how to use CSS shadowing  
@@ -67,8 +68,8 @@ I'm proud that I was able to figure out this CSS:
 
 ### Continued development
 
-This solution is a very basic, static Webpage. I'll enhance it going foward to
-incorporate responsive design and flex boxes.
+This solution is a very basic, static Webpage, with only minimum responsive design
+features. I'll enhance it going forward to incorporate responsive flex boxes.
 
 ## Author
 Jeffrey Favret
