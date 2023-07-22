@@ -120,7 +120,7 @@ h4 {
 }
 
 /* @media (max-width: 915px) { */
-@media (400px <= width <= 915px) {
+@media (min-width: 400px) and (max-width: 915px) {
     #bottom-left-section, #bottom-right-section, .card {
         width: 100%;
         height: auto;
